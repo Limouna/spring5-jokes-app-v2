@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b14b3492-7ff9-4450-9e83-ba3d09074fbf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/spring5jokesappv2/services/JokeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/spring5jokesappv2/services/JokeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/spring5jokesappv2/controllers/JokeController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring5-jokes-app-v2.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,15 +51,13 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -83,7 +79,8 @@
       <option name="presentableId" value="Default" />
       <updated>1616066751803</updated>
       <workItem from="1616066752956" duration="1528000" />
-      <workItem from="1616097795857" duration="1037000" />
+      <workItem from="1616097795857" duration="1296000" />
+      <workItem from="1616151128851" duration="946000" />
     </task>
     <servers />
   </component>
